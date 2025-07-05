@@ -13,7 +13,7 @@ const { checkForAuthenticationCookie } = require("./middleware/authentication");
 const app=express();
 const PORT = 8000;
 
-mongoose.connect('mongodb+srv://aryanpatel0344h:aryan123@agriather.q0lhgxc.mongodb.net/?retryWrites=true&w=majority&appName=agriather/aryan').then(e=>console.log('mongodb connected'));
+mongoose.connect('mongodb+srv://username:<password>@agriather.q0lhgxc.mongodb.net/?retryWrites=true&w=majority&appName=agriather/<databasename>').then(e=>console.log('mongodb connected'));
 
 app.set('view engine','ejs');
 app.set('views',path.resolve('./views'));
