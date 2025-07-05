@@ -33,12 +33,12 @@ blogify/
 ├── posts/  
 └── includes/   
 
-##🧩 Usage
+## 🧩 Usage
 Navigate to Add New Post to create posts.
 Click on a post title to read, edit, or delete it.
 Upload cover images via the form; they’ll save to /public/uploads.
 
-##📦 Dependencies
+## 📦 Dependencies
 Major packages:
 
 express
@@ -47,5 +47,5 @@ multer
 dotenv
 ejs
 
-##📄 License
+## 📄 License
 MIT License © Aryan Sojitra
