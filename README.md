@@ -41,11 +41,11 @@ Upload cover images via the form; they’ll save to /public/uploads.
 ## 📦 Dependencies
 Major packages:
 
-express
-mongoose
-multer
-dotenv
-ejs
+express  
+mongoose  
+multer  
+dotenv  
+ejs  
 
 ## 📄 License
 MIT License © Aryan Sojitra
