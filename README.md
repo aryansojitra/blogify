@@ -21,17 +21,17 @@ A server-rendered blog application built with Node.js, Express, EJS, and MongoDB
 ## 🔧 Project Structure
 
 blogify/
-├── index.js 
-├── models/ 
-│ └── Post.js
-├── routes/ 
-├── middlewares/ 
-├── service/ 
-├── public/
-│ └── uploads/ 
-└── views/
-├── posts/ 
-└── includes/ 
+├── index.js  
+├── models/  
+│ └── Post.js  
+├── routes/  
+├── middlewares/  
+├── service/  
+├── public/  
+│ └── uploads/  
+└── views/  
+├── posts/  
+└── includes/   
 
 ##🧩 Usage
 Navigate to Add New Post to create posts.
